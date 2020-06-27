@@ -1,0 +1,3 @@
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\Debug\iSecureRFID.exe.config
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x86\Debug\iSecureRFID.exe
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x86\Debug\iSecureRFID.pdb

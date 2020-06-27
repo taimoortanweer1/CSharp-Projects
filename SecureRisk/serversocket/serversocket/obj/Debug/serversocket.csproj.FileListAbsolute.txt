@@ -1,0 +1,13 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\Debug\serversocket.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\Debug\RFID_TRACKER.mdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\Debug\serversocket.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\Debug\serversocket.pdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.Form1.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.csproj.GenerateResource.Cache
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.pdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\Debug\serversocket.csprojResolveAssemblyReference.cache
+D:\Work\RFID\SecureRisk\serversocket\serversocket\bin\Debug\serversocket.exe.config
+D:\Work\RFID\SecureRisk\serversocket\serversocket\obj\Debug\serversocket.exe
+D:\Work\RFID\SecureRisk\serversocket\serversocket\obj\Debug\serversocket.pdb

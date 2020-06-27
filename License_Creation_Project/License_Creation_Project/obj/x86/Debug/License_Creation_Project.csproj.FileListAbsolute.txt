@@ -1,0 +1,17 @@
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\bin\Debug\License_Creation_Project.exe
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\bin\Debug\License_Creation_Project.pdb
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.Form1.resources
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.Properties.Resources.resources
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.exe
+c:\users\case\documents\visual studio 2010\Projects\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.pdb
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.exe
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.pdb
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\bin\Debug\License_Creation_Project.exe
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\bin\Debug\License_Creation_Project.pdb
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.Form1.resources
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.Properties.Resources.resources
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.csproj.GenerateResource.Cache
+D:\Work\RFID\License_Creation_Project\License_Creation_Project\obj\x86\Debug\License_Creation_Project.csprojResolveAssemblyReference.cache

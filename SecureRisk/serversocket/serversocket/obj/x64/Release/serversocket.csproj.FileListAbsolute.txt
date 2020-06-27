@@ -1,0 +1,7 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\x64\Release\RFID_TRACKER.mdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\x64\Release\serversocket.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\bin\x64\Release\serversocket.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\x64\Release\serversocket.Form1.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\x64\Release\serversocket.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\x64\Release\serversocket.csproj.GenerateResource.Cache
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket\serversocket\obj\x64\Release\serversocket.exe

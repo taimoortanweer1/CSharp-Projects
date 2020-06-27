@@ -1,0 +1,2 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\RFID_Sms_Device_Working\serversocket\bin\x64\Release\serversocket.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\RFID_Sms_Device_Working\serversocket\obj\x64\Release\serversocket.exe

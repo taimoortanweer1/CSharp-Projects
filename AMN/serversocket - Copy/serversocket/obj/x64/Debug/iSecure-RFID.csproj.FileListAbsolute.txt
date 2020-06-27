@@ -1,0 +1,14 @@
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\serversocket.Form1.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\serversocket.LicenceKey.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecure-RFID.csproj.GenerateResource.Cache
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe.config
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe.manifest
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.application
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.pdb
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.Properties.Resources.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.exe.manifest
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.application
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.exe
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.pdb
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Debug\iSecure-RFID.csprojResolveAssemblyReference.cache

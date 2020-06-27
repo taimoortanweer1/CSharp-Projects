@@ -1,0 +1,15 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\Release\iSecureRFID.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\Release\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\Release\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\Release\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\Release\iSecureRFID.pdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\serversocket.Form1.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\serversocket.LicenceKey.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\iSecureRFID.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x86\Release\iSecureRFID.pdb

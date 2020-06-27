@@ -1,0 +1,13 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\serversocket.Form1.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\serversocket.LicenceKey.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Debug\iSecureRFID.pdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecureRFID.pdb
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Debug\iSecure RFID.csproj.GenerateResource.Cache

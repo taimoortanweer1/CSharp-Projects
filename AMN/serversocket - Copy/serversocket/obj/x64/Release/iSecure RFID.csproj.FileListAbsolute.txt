@@ -1,0 +1,22 @@
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe.config
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\serversocket.Form1.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\serversocket.LicenceKey.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.exe.manifest
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.application
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.exe
+C:\Users\Taimoor\Desktop\Workshop\Client servercomunication\Client servercomunication\serversocket - Copy\serversocket\obj\x64\Release\iSecure RFID.csproj.GenerateResource.Cache
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe.config
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe.manifest
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.application
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\bin\x64\Release\iSecureRFID.exe
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\serversocket.Form1.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\serversocket.LicenceKey.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.Properties.Resources.resources
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\iSecure RFID.csproj.GenerateResource.Cache
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.exe.manifest
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.application
+D:\Work\RFID\AMN\serversocket - Copy\serversocket\obj\x64\Release\iSecureRFID.exe
