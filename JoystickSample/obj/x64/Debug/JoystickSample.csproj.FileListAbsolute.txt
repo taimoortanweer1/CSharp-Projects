@@ -1,0 +1,46 @@
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe.config
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.pdb
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\AForge.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\AForge.Video.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\AviFile.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.pdb
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.xml
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Axis.resources
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Button.resources
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.frmMain.resources
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Properties.Resources.resources
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.exe
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.pdb
+D:\Work\TANK\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe.config
+D:\Work\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.exe
+D:\Work\TANK\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.pdb
+C:\Users\Taimoor\Desktop\New folder (2)\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe.config
+C:\Users\Taimoor\Desktop\New folder (2)\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.exe
+C:\Users\Taimoor\Desktop\New folder (2)\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.pdb
+C:\Users\Taimoor\Desktop\workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe.config
+C:\Users\Taimoor\Desktop\workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.exe
+C:\Users\Taimoor\Desktop\workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe.config
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.exe
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.exe
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickSample.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\AForge.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\AForge.Video.DirectShow.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\AForge.Video.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\AviFile.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\bin\x64\Debug\JoystickInterface.xml
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.csprojResolveAssemblyReference.cache
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Axis.resources
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Button.resources
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.frmMain.resources
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.Properties.Resources.resources
+D:\Work\Robonoid workshop\joystick_status\JoystickSample\obj\x64\Debug\JoystickSample.csproj.GenerateResource.Cache

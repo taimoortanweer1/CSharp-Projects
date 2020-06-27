@@ -1,0 +1,12 @@
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.pdb
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.XML
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\obj\x64\Debug\JoystickInterface.dll
+C:\Users\Taimoor\Desktop\TANK\joystick_status\JoystickInterface\obj\x64\Debug\JoystickInterface.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.pdb
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\bin\x64\Debug\JoystickInterface.XML
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\obj\x64\Debug\JoystickInterface.csprojResolveAssemblyReference.cache
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\obj\x64\Debug\JoystickInterface.dll
+D:\Work\Robonoid workshop\joystick_status\JoystickInterface\obj\x64\Debug\JoystickInterface.pdb
