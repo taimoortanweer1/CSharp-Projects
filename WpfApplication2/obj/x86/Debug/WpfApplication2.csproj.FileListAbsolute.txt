@@ -1,0 +1,69 @@
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+C:\Users\hussein\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\hussein\Documents\Visual Studio 2010\Projects\WpfApplication3\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\WpfApplication2.exe
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\WpfApplication2.pdb
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\DocX.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Facebook.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Hammock.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.IO.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.Extensions.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.Primitives.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.WebRequest.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Runtime.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Threading.Tasks.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\TweetSharp.dll
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Facebook.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Hammock.pdb
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.IO.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.Extensions.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.Primitives.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Net.Http.WebRequest.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Runtime.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\System.Threading.Tasks.xml
+U:\care\WpfApplication4\WpfApplication2\bin\Debug\TweetSharp.pdb
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.App.config
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\Interop.ACTIVEXLib.dll
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.ResolveComReference.cache
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\SplashWindow.baml
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\SplashWindow.g.cs
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\App.g.cs
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2_Content.g.cs
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.lref
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\MainWindow.baml
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+U:\care\WpfApplication4\WpfApplication2\obj\x86\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+U:\care\sma\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+U:\care\sma\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.App.config
+U:\care\sma\WpfApplication2\obj\x86\Debug\Interop.ACTIVEXLib.dll
+U:\care\sma\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.ResolveComReference.cache
+U:\care\sma\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+U:\care\sma\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
