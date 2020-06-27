@@ -1,0 +1,11 @@
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.csprojResolveAssemblyReference.cache
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.Form1.resources
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.Properties.Resources.resources
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.csproj.GenerateResource.Cache
+D:\Work\CARE\API\facebook\Facebook\Facebook\bin\Debug\Facebook.exe.config
+D:\Work\CARE\API\facebook\Facebook\Facebook\bin\Debug\Facebook.exe
+D:\Work\CARE\API\facebook\Facebook\Facebook\bin\Debug\Facebook.pdb
+D:\Work\CARE\API\facebook\Facebook\Facebook\bin\Debug\Facebook.dll
+D:\Work\CARE\API\facebook\Facebook\Facebook\bin\Debug\Facebook.xml
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.exe
+D:\Work\CARE\API\facebook\Facebook\Facebook\obj\x86\Debug\Facebook.pdb
