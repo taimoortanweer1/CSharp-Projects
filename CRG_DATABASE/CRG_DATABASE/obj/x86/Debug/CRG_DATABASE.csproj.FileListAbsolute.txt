@@ -1,0 +1,10 @@
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\bin\Debug\CRG_DATABASE.exe
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\bin\Debug\CRG_DATABASE.pdb
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\CRG_DATABASE.Properties.Resources.resources
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\CRG_DATABASE.exe
+c:\users\taimoor\documents\visual studio 2010\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\CRG_DATABASE.pdb
+D:\Work\database\crg_database\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\CRG_DATABASE.exe
+D:\Work\database\crg_database\Projects\CRG_DATABASE\CRG_DATABASE\obj\x86\Debug\CRG_DATABASE.pdb

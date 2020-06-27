@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="crg.Properties.Settings.CRG_DATABASEConnectionString"
+            connectionString="Data Source=TAIMOOR-PC\SQLEXPRESS;Initial Catalog=CRG_DATABASE;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="crg.Properties.Settings.ClientCRG_DATABASEConnectionString"
+            connectionString="Data Source=|DataDirectory|\CRG_DATABASE.sdf;Max Database Size=2047"
+            providerName="Microsoft.SqlServerCe.Client.3.5" />
+    </connectionStrings>
+</configuration>

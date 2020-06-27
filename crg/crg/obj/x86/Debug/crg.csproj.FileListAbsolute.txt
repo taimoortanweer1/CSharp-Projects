@@ -1,0 +1,47 @@
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.Contact.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.IssueReportForm.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.Login_Form.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.MainForm.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.ProductLog.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.Issue_form.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.Properties.Resources.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.ReportForm1.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.Update_productLog.resources
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\RdlCompile.cache
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\bin\Debug\crg.exe.config
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\bin\Debug\crg.exe.manifest
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\bin\Debug\crg.application
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\bin\Debug\crg.exe
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\bin\Debug\crg.pdb
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.exe.manifest
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.application
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.exe
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\crg.pdb
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Taimoor\Documents\Visual Studio 2010\Projects\crg\crg\obj\x86\Debug\ResGen.write.1.tlog
+D:\Work\database\crg_database\Projects\crg\crg\bin\Debug\crg.exe.config
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.exe
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.pdb
+D:\Work\database\crg_database\Projects\crg\crg\bin\Debug\crg.exe.manifest
+D:\Work\database\crg_database\Projects\crg\crg\bin\Debug\crg.application
+D:\Work\database\crg_database\Projects\crg\crg\bin\Debug\crg.exe
+D:\Work\database\crg_database\Projects\crg\crg\bin\Debug\crg.pdb
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.csprojResolveAssemblyReference.cache
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.Contact.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.IssueReportForm.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.Login_Form.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.MainForm.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.ProductLog.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.Issue_form.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.Properties.Resources.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.ReportForm1.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.Update_productLog.resources
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.csproj.GenerateResource.Cache
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\RdlCompile.cache
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\RdlCompile.compiled
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.exe.manifest
+D:\Work\database\crg_database\Projects\crg\crg\obj\x86\Debug\crg.application
